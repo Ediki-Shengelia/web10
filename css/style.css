@@ -612,6 +612,7 @@
   .a-class {
     margin-right: 30px;
   }
+
   .desktop-header-div {
     display: flex;
     align-items: center;
@@ -740,5 +741,6 @@
   .first-footer-box p{
     font-size: 23px;
     line-height: 36.8px;
-  }
+  /* !!! */
+
 }
